@@ -15,10 +15,10 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\CleanArchitecture.Core\Medline.Recall.Core.csproj" />
+    <Folder Include="Models\DataManager\" />
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Models\DataManager\" />
+    <ProjectReference Include="..\CleanArchitecture.Core\ProjectName.Core.csproj" />
   </ItemGroup>
 </Project>

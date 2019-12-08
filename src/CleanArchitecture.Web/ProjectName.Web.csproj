@@ -34,8 +34,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\CleanArchitecture.Core\Medline.Recall.Core.csproj" />
-    <ProjectReference Include="..\CleanArchitecture.Infrastructure\Medline.Recall.Infrastructure.csproj" />
+    <ProjectReference Include="..\CleanArchitecture.Core\ProjectName.Core.csproj" />
+    <ProjectReference Include="..\CleanArchitecture.Infrastructure\ProjectName.Infrastructure.csproj" />
   </ItemGroup>
 
   <ItemGroup>

@@ -42,9 +42,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\src\CleanArchitecture.Core\Medline.Recall.Core.csproj" />
-    <ProjectReference Include="..\..\src\CleanArchitecture.Infrastructure\Medline.Recall.Infrastructure.csproj" />
-    <ProjectReference Include="..\..\src\CleanArchitecture.Web\Medline.Recall.Web.csproj" />
+    <ProjectReference Include="..\..\src\CleanArchitecture.Core\ProjectName.Core.csproj" />
+    <ProjectReference Include="..\..\src\CleanArchitecture.Infrastructure\ProjectName.Infrastructure.csproj" />
+    <ProjectReference Include="..\..\src\CleanArchitecture.Web\ProjectName.Web.csproj" />
   </ItemGroup>
 
   <ItemGroup>

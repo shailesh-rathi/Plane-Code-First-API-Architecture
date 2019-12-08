@@ -7,13 +7,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{106AE906-507
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{B31B4797-1D9F-4288-808C-BE9A31A98C7D}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Medline.Recall.Core", "src\CleanArchitecture.Core\Medline.Recall.Core.csproj", "{4548EB20-1D1B-477B-AF6E-DD55653A6583}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProjectName.Core", "src\CleanArchitecture.Core\ProjectName.Core.csproj", "{4548EB20-1D1B-477B-AF6E-DD55653A6583}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Medline.Recall.Infrastructure", "src\CleanArchitecture.Infrastructure\Medline.Recall.Infrastructure.csproj", "{220361D6-9C76-4E3F-BD34-3C7B50E2CA4D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProjectName.Infrastructure", "src\CleanArchitecture.Infrastructure\ProjectName.Infrastructure.csproj", "{220361D6-9C76-4E3F-BD34-3C7B50E2CA4D}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Medline.Recall.Web", "src\CleanArchitecture.Web\Medline.Recall.Web.csproj", "{C9751CB7-4CD6-4633-A99A-4F6ADD525437}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProjectName.Web", "src\CleanArchitecture.Web\ProjectName.Web.csproj", "{C9751CB7-4CD6-4633-A99A-4F6ADD525437}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Medline.Recall.Tests", "tests\CleanArchitecture.Tests\Medline.Recall.Tests.csproj", "{AEE17BAB-D187-4BC5-B640-40CC0749566C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProjectName.Tests", "tests\CleanArchitecture.Tests\ProjectName.Tests.csproj", "{AEE17BAB-D187-4BC5-B640-40CC0749566C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
